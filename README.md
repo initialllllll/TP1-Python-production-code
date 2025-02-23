@@ -1,6 +1,3 @@
-# TP1-Python-production-code
-My homework with my informatic course following my teacher and site below https://github.com/Elias-Hr/TP_Production_code. Thanks a lot!
-
 # TP : Python production code
 
 Ce TP permet d'appliquer les notions de dev pour la mise en place d'une solution ML prête à etre mise en production. Il utilse le dataet [Titatnic](https://www.kaggle.com/competitions/titanic/data?select=train.csv). 
