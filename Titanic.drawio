@@ -41,19 +41,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMGe-JlmILben86hI7q-6" target="FgMGe-JlmILben86hI7q-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="400" />
+              <mxPoint x="290" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMGe-JlmILben86hI7q-6" target="FgMGe-JlmILben86hI7q-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="400" />
+              <mxPoint x="560" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-6" value="&lt;h4&gt;scripts&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMGe-JlmILben86hI7q-8" target="FgMGe-JlmILben86hI7q-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-8" value="&lt;h4&gt;notebooks&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-12" value="train.csv" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="440" width="80" height="80" as="geometry" />
@@ -68,7 +78,7 @@
           <mxGeometry x="150" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-26" value="utils.py" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="430" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMGe-JlmILben86hI7q-6" target="FgMGe-JlmILben86hI7q-22">
           <mxGeometry relative="1" as="geometry">
@@ -77,16 +87,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-22" value="predict.py" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-35" value="train.py" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="250" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-37" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;preprocess.py&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-39" value="EDA.ipynb" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="660" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMGe-JlmILben86hI7q-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMGe-JlmILben86hI7q-1" target="FgMGe-JlmILben86hI7q-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="150" as="sourcePoint" />
+            <mxPoint x="1000" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMGe-JlmILben86hI7q-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
