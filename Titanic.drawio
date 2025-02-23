@@ -19,6 +19,12 @@
         <mxCell id="FgMGe-JlmILben86hI7q-1" value="&lt;h4&gt;titanic_ml_project&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FgMGe-JlmILben86hI7q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMGe-JlmILben86hI7q-2" target="FgMGe-JlmILben86hI7q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMGe-JlmILben86hI7q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMGe-JlmILben86hI7q-2" target="FgMGe-JlmILben86hI7q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-2" value="&lt;h4&gt;data&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -30,6 +36,12 @@
         </mxCell>
         <mxCell id="FgMGe-JlmILben86hI7q-8" value="&lt;h4&gt;notebooks&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMGe-JlmILben86hI7q-12" value="train.csv" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMGe-JlmILben86hI7q-14" value="test.csv" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="505" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
